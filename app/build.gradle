@@ -20,6 +20,7 @@ android {
 
 dependencies {
     compile project(':expandablerecyclerview')
+    compile project(':sample')
     compile 'com.android.support:appcompat-v7:26.1.0'
     compile 'com.android.support:recyclerview-v7:26.1.0'
 
