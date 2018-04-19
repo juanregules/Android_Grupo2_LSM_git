@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_Grupo2_LSM_git.iml" filepath="$PROJECT_DIR$/Android_Grupo2_LSM_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_Grupo2_LSM_git-martinrb.iml" filepath="$PROJECT_DIR$/Android_Grupo2_LSM_git-martinrb.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\ArturoCantu\Documents\GitHub\Android_Grupo2_LSM_git\app\app.iml" filepath="C:\Users\ArturoCantu\Documents\GitHub\Android_Grupo2_LSM_git\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/expandablerecyclerview/expandablerecyclerview.iml" filepath="$PROJECT_DIR$/expandablerecyclerview/expandablerecyclerview.iml" />
-      <module fileurl="file://C:\Users\ArturoCantu\Documents\GitHub\Android_Grupo2_LSM_git\pruebas_cliente.iml" filepath="C:\Users\ArturoCantu\Documents\GitHub\Android_Grupo2_LSM_git\pruebas_cliente.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
 </project>

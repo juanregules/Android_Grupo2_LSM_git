@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="itesm.mx.pruebas_cliente">
+    package="itesm.mx.proyectofinal">
 
     <application
         android:allowBackup="true"
@@ -17,9 +17,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".juego"
-            android:label="@string/title_activity_juego"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:name="itesm.mx.proyectofinal.expand.ExpandActivity"
+            android:parentActivityName="itesm.mx.proyectofinal.MainActivity" />
     </application>
 
 </manifest>
